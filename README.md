@@ -1,1 +1,3 @@
-This is my code repository for the Data Science capstone project for the IBM Data Science Professional Certificate from Coursera.
+This is my code repository for the Data Science capstone project for the IBM Data Science Professional Certificate from Coursera. This project is based on a hypothetical competitor to SpaceX, whose goal is to make a model that predicts whether a booster landing will be successful or not.
+
+You can find the notebooks for various sections of the project, which tested my abilities with Data Acquisition, Data Wrangling, Data Visualization, and Machine Learning. I used Python and SQL to analyze the data and predict the outcome of a booster landing with 88.9% accuracy. The pdf file contains the slides that summarizes the contents of all the notebooks in the repository.
